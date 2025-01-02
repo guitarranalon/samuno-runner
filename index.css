@@ -166,7 +166,9 @@ html, body {
 
 .game-title {
   font-family: monospace, sans-serif;
+  position: relative;
   text-align: center;
+  z-index:99;
 }
 
 .game-title h1,
@@ -181,6 +183,12 @@ html, body {
 #messageBox h1 {
   font-size: 16px;
   animation: blink 1.5s ease-in-out infinite;
+}
+
+@media (hover: none) {
+  #messageBox {
+    display: none;
+  }
 }
 
 @keyframes blink {
