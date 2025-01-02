@@ -1,6 +1,6 @@
-## Samuño runner
+# Samuño runner
 
-For of Chrome's t-rex runner for the [Trail Valle de Samuño](https://github.com/guitarranalon/trailsamuno)
+Fork of Chrome's t-rex runner for the [Trail Valle de Samuño](https://github.com/guitarranalon/trailsamuno)
 
 ## t-rex-runner
 
