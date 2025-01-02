@@ -2171,7 +2171,7 @@
      * @enum {number}
      */
     Cloud.config = {
-        HEIGHT: 14,
+        HEIGHT: 50,
         MAX_CLOUD_GAP: 400,
         MAX_SKY_LEVEL: 30,
         MIN_CLOUD_GAP: 100,
@@ -2564,7 +2564,7 @@
         BG_CLOUD_SPEED: 0.2,
         BUMPY_THRESHOLD: .3,
         CLOUD_FREQUENCY: .5,
-        HORIZON_HEIGHT: 16,
+        HORIZON_HEIGHT: 10,
         MAX_CLOUDS: 6
     };
 
